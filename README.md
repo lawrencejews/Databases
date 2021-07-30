@@ -13,4 +13,5 @@
 ## Redis
 - docker run -dit --rm --name=my-redis -p 6379:6379 redis:6.0.8.
 - docker exec -it my-redis redis-cli.
-##Link:https://btholt.github.io/complete-intro-to-databases/
+## Link:
+- https://btholt.github.io/complete-intro-to-databases/
